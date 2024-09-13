@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962860263191",
+    "project_id": "logintask-ea49e",
+    "storage_bucket": "logintask-ea49e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962860263191:android:27cb12604cd3d6c6e3f952",
+        "android_client_info": {
+          "package_name": "com.example.logintask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu4hjMHBbfjMTs75Ah0ZrLBTfcfGqEFqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
